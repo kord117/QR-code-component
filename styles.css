@@ -1,0 +1,27 @@
+html {
+  background-color: lightgrey;
+}
+body {
+  display: flex;
+  flex-direction: column;
+
+  margin: 30px;
+  background-color: White;
+  border-radius: 5%;
+  text-wrap: balance;
+  text-align: center;
+}
+
+img {
+  border-radius: 5%;
+  max-height: 40vh;
+  margin-top: 20px;
+}
+
+.bold {
+  font-weight: 700;
+}
+.normal{
+  font-weight: 400;
+  color:hsl(220, 15%, 55%)}
+}
