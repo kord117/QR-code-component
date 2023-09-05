@@ -2,8 +2,8 @@ html {
   background-color: lightgrey;
   display: flex;
   justify-content: center;
-  align-items:  center;
-  height:100vh;
+  align-items: center;
+  height: 100vh;
 }
 .center {
   margin: 0 auto;
@@ -13,7 +13,6 @@ html {
   text-align: center;
   max-width: 375px;
   padding: 1em;
-  
 }
 
 img {
@@ -24,7 +23,7 @@ img {
 .bold {
   font-weight: 700;
 }
-.normal{
+.normal {
   font-weight: 400;
-  color:hsl(220, 15%, 55%)}
+  color: hsl(220, 15%, 55%);
 }
